@@ -1,6 +1,6 @@
-package JUnit.Junit09_Geometria;
+package com.Junit09_Geometria;
 
-import JUnit.Junit09_Geometria.dto.Geometria;
+import com.Junit09_Geometria.dto.Geometria;
 
 public class App 
 {

@@ -1,4 +1,4 @@
-package JUnit.Junit09_Geometria.dto;
+package com.Junit09_Geometria.dto;
 
 public class Geometria {
 	
